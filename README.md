@@ -1,4 +1,4 @@
-# Thematic Bags-of-words (BoW) for Smart-City and CivicTech
+# Thematic Bags-of-words (BoW) for Smart-City, CivicTech and Urban Studies topics.
 This repo contains a notebook of the creation of Bag-of-words (BoW) from Smart-City and Civic Technology fields.
 
 - smartcity (append smartgrid, iot, urban planning, urban development, innovation)
